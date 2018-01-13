@@ -1,0 +1,8 @@
+title: xbwen.github.io
+description: Frank Wen 's Home Page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
