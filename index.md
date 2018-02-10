@@ -27,6 +27,6 @@ Frank Wen
 
 专业打杂程序员
 
-Email: xbwen(at)hadlinks.com
+Email: xbwen@hadlinks.com
 
 
