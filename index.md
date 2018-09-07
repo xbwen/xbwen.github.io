@@ -20,7 +20,7 @@
 
 ## Projects
 ### [bugu-mongo](https://github.com/xbwen/bugu-mongo)
-bugu-mongo是一个MongoDB Java开发框架，集成了DAO、Query、Lucene、GridFS等功能。bugu-mongo功能强大，可以大大减少代码量，提高开发效率。
+bugu-mongo是一个MongoDB Java开发框架，集成了DAO、Query、Join、分表、GridFS等功能。bugu-mongo功能强大，可以大大减少代码量，提高开发效率。
 
 ### [bugu-redis](https://github.com/xbwen/bugu-redis)
 bugu-redis是一个操作Redis的Java类库，它封装了Redis的各种常用功能，简单易用。
