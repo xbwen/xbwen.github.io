@@ -18,6 +18,9 @@
 
 [TCP通信中的KeepAlive](https://github.com/xbwen/xbwen.github.io/wiki/TCP%E9%80%9A%E4%BF%A1%E4%B8%AD%E7%9A%84KeepAlive) （2014-03-28）
 
+## Papers
+[物联网系统自动化监控的设计与实现]()[J]，计算机时代，2019.6
+
 ## Projects
 ### [bugu-mongo](https://github.com/xbwen/bugu-mongo)
 bugu-mongo是一个MongoDB Java开发框架，集成了DAO、Query、Join、分表、GridFS等功能。bugu-mongo功能强大，可以大大减少代码量，提高开发效率。
@@ -25,11 +28,11 @@ bugu-mongo是一个MongoDB Java开发框架，集成了DAO、Query、Join、分�
 ### [bugu-redis](https://github.com/xbwen/bugu-redis)
 bugu-redis是一个操作Redis的Java类库，它封装了Redis的各种常用功能，简单易用。
 
-## About
+## About Me
 
 Frank Wen
 
-专业打杂程序员
+CTO of hadlinks.com
 
 Email: xbwen@hadlinks.com
 
