@@ -34,7 +34,7 @@ bugu-redis是一个操作Redis的Java类库，它封装了Redis的各种常用�
 
 Frank Wen
 
-CTO of hadlinks.com
+海大物联 CTO
 
 Email: xbwen@hadlinks.com
 
