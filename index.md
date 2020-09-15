@@ -24,6 +24,8 @@
 
 [物联网系统自动化监控的设计与实现](http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JSJS201906010&dbname=CJFDPREP)[J]，计算机时代，2019.6
 
+[轻量级分布式追踪系统的设计与实现](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=JSJS202009018&dbname=CJFDAUTO)[J]，计算机时代，2020.9
+
 ## Open Source
 
 ### [bugu-mongo](https://github.com/xbwen/bugu-mongo)
