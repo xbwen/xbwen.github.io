@@ -1,6 +1,6 @@
 ## Blogs
 
-[大数据基础：概率论与数理统计](https://github.com/xbwen/xbwen.github.io/blob/master/static/BigData1.pdf)（2020-06-20，Keynote）
+[大数据基础：概率论与数理统计](https://github.com/xbwen/xbwen.github.io/blob/master/static/BigData1.pdf)（2020-06-20）（Keynote）
 
 [HTTP协议中的KeepAlive](https://github.com/xbwen/xbwen.github.io/wiki/HTTP%E5%8D%8F%E8%AE%AE%E4%B8%AD%E7%9A%84KeepAlive) （2018-09-07）
 
